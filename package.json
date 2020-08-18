@@ -1,0 +1,26 @@
+{
+  "name": "404-page",
+  "version": "0.0.0",
+  "description": "A 404 Page example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlee-dev/404-page.git"
+  },
+  "keywords": [
+    "404",
+    "not",
+    "found",
+    "404",
+    "page"
+  ],
+  "author": "Alex Lee (www.alexlee.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexlee-dev/404-page/issues"
+  },
+  "homepage": "https://github.com/alexlee-dev/404-page#readme"
+}
